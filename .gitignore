@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# ignore pdfs and images
+
+.pdf
+.png
+.jpeg
